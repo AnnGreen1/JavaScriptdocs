@@ -36,23 +36,22 @@ alert("some code");
 ```
 
 只有注释可以出现在 `"use strict"` 的上面。
-````
 
-```warn header="没有办法取消 `use strict`"
+###### 没有办法取消 `use strict`
 没有类似于 `"no use strict"` 这样的指令可以使程序返回默认模式。
 
 一旦进入了严格模式，就没有回头路了。
-```
+
 
 ## 浏览器控制台
 
-当你使用 [开发者控制台](info:devtools) 运行代码时，请注意它默认是不启动 `use strict` 的。
+当你使用 [开发者控制台](../../01-getting-started/4-devtools/article.md) 运行代码时，请注意它默认是不启动 `use strict` 的。
 
 有时，当 `use strict` 会对代码产生一些影响时，你会得到错误的结果。
 
 那么，怎么在控制台中启用 `use strict` 呢？
 
-首先，你可以尝试搭配使用 `key:Shift+Enter` 按键去输入多行代码，然后将 `use strict` 放在代码最顶部，就像这样：
+首先，你可以尝试搭配使用 `Shift+Enter` 按键去输入多行代码，然后将 `use strict` 放在代码最顶部，就像这样：
 
 ```js
 'use strict'; <Shift+Enter 换行>

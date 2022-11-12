@@ -10,6 +10,7 @@
   - [2.1 Hello,world!](./1-js/02-first-steps/01-hello-world/article.md)
   - [2.2 代码结构](./1-js/02-first-steps/02-structure/article.md)
   - [2.3 现代模式，"use strict"](./1-js/02-first-steps/03-strict-mode/article.md)
+  - [2.4 变量](./1-js/02-first-steps/04-variables/article.md)
 #### 第二部分 浏览器：文档、事件、接口
 
 #### 第三部分 其他文章
