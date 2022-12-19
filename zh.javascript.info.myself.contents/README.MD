@@ -19,6 +19,9 @@
   - [2.10 条件分支：if 和 '?'](./2-first-steps/2.10-ifelse/2.10-ifelse.md)
   - [2.11 逻辑运算符](./2-first-steps/2.11-logical-operators/2.11-logical-operators.md)
   - [2.12 空值合并运算符 '??'](./2-first-steps/2.12-nullish-coalescing-operator/2.12-nullish-coalescing-operator.md)
+  - [2.13 循环：while 和 for](./2-first-steps/2.13-while-for/2.13-while-for.md)
+  - [2.14 "switch" 语句](./2-first-steps/2.14-switch/2.14-switch.md)
+  - [2.15 函数](./2-first-steps/2.15-function-basics/2.15-function-basics.md)
 #### 第二部分 浏览器：文档、事件、接口
 
 #### 第三部分 其他文章
