@@ -22,6 +22,18 @@
   - [2.13 循环：while 和 for](./2-first-steps/2.13-while-for/2.13-while-for.md)
   - [2.14 "switch" 语句](./2-first-steps/2.14-switch/2.14-switch.md)
   - [2.15 函数](./2-first-steps/2.15-function-basics/2.15-function-basics.md)
+  - [2.16 函数表达式](./2-first-steps/2.16-function-expressions/2.16-function-expressions.md)
+  - [2.17 箭头函数，基础知识](./2-first-steps/2.17-arrow-functions-basics/2.17-arrow-functions-basics.md)
+  - [2.18 JavaScript 特性](./2-first-steps/2.18-javascript-specials/2.18-javascript-specials.md)
+- [11-Promise，async/await]()
+    - [11.1 简介：回调]()
+    - [11.2 Promise]()
+    - [11.3 Promise链]()
+    - [11.4 使用promise进行错误处理]()
+    - [11.5 Promise API]()
+    - [11.6 Promisification]()
+    - [11.7 微任务（Microtask)]()
+    - [11.8 async/await]()
 #### 第二部分 浏览器：文档、事件、接口
 
 #### 第三部分 其他文章
